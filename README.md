@@ -1,5 +1,7 @@
 # British Airways Data Analysis - Advanced Tableau Project
 
+![banner](img.png)
+
 ## Project Overview
 
 This project showcases advanced Tableau skills by performing a comprehensive analysis of British Airways data. The dataset includes detailed information on various aspects of air travel, which has been integrated with a country dataset to provide deeper insights. The analysis covers multiple dimensions such as country, aircraft type, overall rating, travel type, seat type, and key performance indicators (KPIs).
